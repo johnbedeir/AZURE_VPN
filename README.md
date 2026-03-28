@@ -1,5 +1,7 @@
 # Azure VPN + Private VM (Terraform)
 
+<img src=imgs/cover.png>
+
 ## Goal
 
 Private Linux web app (Nginx) reachable **only via Point-to-Site (P2S) VPN**.
